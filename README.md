@@ -16,7 +16,7 @@
 ### Analysis of Outcomes 
 
 - We were able to set up a graph to present our findings through the use of the new resampled DataFrame as well as Matplotlib using the df.plot() method.
-- See PyBer_Analysis\analysis\Challenge_df.PNG 
+- ![image](https://user-images.githubusercontent.com/92435456/144770052-d95a4184-ba9c-4d05-9520-f0a5e4da0106.png)
 
 ### Challenges and Difficulties Encountered
 
