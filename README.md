@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 - First thing we did was set up a new DataFrame from the data provide. 
-- See PyBer_Analysis\analysis\Challenge_df.PNG
+- ![image](https://user-images.githubusercontent.com/92435456/144770069-da905972-919f-4ef8-89ca-288ab3f47c4d.png)
 - With our first DataFrame set up we are able to filter to the relevant data that PyBer wants to use. 
 - With the instructions provided we ended up with data specifically in the first third of the year, 2019-01-01 to 2019-04-29. Sample code provided these dates. 
 ### Analysis of Outcomes 
